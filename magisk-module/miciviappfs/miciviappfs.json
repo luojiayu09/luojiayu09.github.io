@@ -1,1 +1,6 @@
-1
+{
+  "versionCode": 20220201,
+  "version": "v1.2",
+  "zipUrl": "https://luojiayu09.github.io/magisk-module/miciviappfs/miciviappfs.zip",
+  "changelog": "https://luojiayu09.github.io/magisk-module/miciviappfs/changelog.md"
+}
